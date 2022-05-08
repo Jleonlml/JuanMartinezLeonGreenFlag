@@ -43,6 +43,7 @@
           android:id="@+id/btn_create_account"
           android:layout_width="match_parent"
           android:layout_height="50dp"
+          android:textColor="@color/black"
           android:text="@string/btn_create_account_text"
           android:textSize="20sp"
           android:gravity="center"
